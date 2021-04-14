@@ -27,7 +27,7 @@ $ python manage.py export_squirrel_data /path/to/file.csv
 
 ## Group Information
 - Project Group 34
-- UNIs: [ss6125, ]
+- UNIs: [ss6125, ns3535]
 
 
 ## Links 
